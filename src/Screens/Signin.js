@@ -49,6 +49,9 @@ export default function SignIn() {
 
   return (
     <div style={rootDiv}>
+       <img src="src\Screens\logo.webp"
+       style={image}
+       alt=""></img>
      
       <input
         style={input}

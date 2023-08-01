@@ -53,6 +53,9 @@ export default function SignUp() {
   return (
     <div style={rootDiv}>
       
+      <img src="src\Screens\logo.webp"
+      style={image}
+       alt=""></img>
       <input
         style={input}
         value={username}
